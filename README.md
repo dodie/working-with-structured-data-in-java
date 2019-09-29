@@ -1,1 +1,1 @@
-# jackson-databind-deep-merge-example
+Examples for update, merge and compare hierarchical data in Java, using Maps, POJOs and JsonStructures.
