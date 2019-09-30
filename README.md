@@ -1,1 +1,1 @@
-Examples for update, merge and compare hierarchical data in Java, using Maps, POJOs and JsonStructures.
+Examples for updating, merging and comparing hierarchical data in Java, using Maps, POJOs and JsonStructures.
